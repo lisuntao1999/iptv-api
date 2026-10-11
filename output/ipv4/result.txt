@@ -1,19 +1,18 @@
 🕘️更新时间,#genre#
-2026-10-10 23:41:29,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-10-11 08:38:24,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
+CETV-1,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=cetv1hd&usign=
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-1,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=cetv1hd&usign=
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,http://113.25.252.226:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -26,6 +25,7 @@ CETV-1,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获�
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -42,6 +42,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+IPTV经典电影,http://45.192.97.170:8880/play/2649.m3u8
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
